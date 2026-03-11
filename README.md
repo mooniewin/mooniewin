@@ -142,16 +142,6 @@ Features:
 
 ---
 
-# 🏆 Coding Profiles
-
-💻 LeetCode  
-https://leetcode.com/mooniewin
-
-🔥 Codeforces  
-https://codeforces.com/profile/mooniewin
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
